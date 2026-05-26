@@ -224,7 +224,7 @@ export default function Home() {
       {/* Brands row section */}
       <section className="mx-auto max-w-7xl px-4 py-16 sm:px-6 lg:px-8 text-center" id="brand-ticker-section">
         <span className="text-[10px] font-bold uppercase tracking-widest text-zinc-400 dark:text-zinc-600">
-          AUTHORIZED PRODUCT DISTRIBUTOR
+          WE ARE THE AUTHORIZED PRODUCT DISTRIBUTOR
         </span>
         <h2 className="mt-1 text-base font-bold text-zinc-800 dark:text-zinc-250">
           Curating authentic brands with lifetime localized assistance
