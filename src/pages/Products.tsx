@@ -1,3 +1,4 @@
+//this is my product page
 import React, { useState, useMemo, useEffect } from "react";
 import { useSearchParams } from "react-router-dom";
 import { 
