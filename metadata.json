@@ -1,0 +1,6 @@
+{
+  "name": "HamroGadget",
+  "description": "Modern and responsive electronics store e-commerce website with interactive catalog filters, rich product details, persistent cart management, checkout system, and premium dark/light mode toggle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
